@@ -3,4 +3,4 @@
 wipwipwipwip pls
 
 
-<img src="https://https://files.catbox.moe/7e2ljo.png"/>
+![](https://files.catbox.moe/7e2ljo.png)

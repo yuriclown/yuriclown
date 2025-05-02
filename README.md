@@ -1,3 +1,5 @@
+recomended viewing zoomed in 150%
+
 ![](https://files.catbox.moe/qyfztb.png)
 
 <img src="https://files.catbox.moe/thumbs/t_g3qmjk.png" width="200" height="133"> ![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=689E4D) <img src="https://files.catbox.moe/thumbs/t_i3mrjl.png" width="200" height="133">

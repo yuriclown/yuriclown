@@ -2,7 +2,8 @@ recomended viewing zoomed in 150%
 
 ![](https://files.catbox.moe/qyfztb.png)
 
-<img src="https://files.catbox.moe/thumbs/t_g3qmjk.png" width="200" height="133"> ![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=689E4D) <img src="https://files.catbox.moe/thumbs/t_i3mrjl.png" width="200" height="133">
+<a href="https://rentry.co/theactualnerdemoji">![image](https://files.catbox.moe/gx7fsx.png)
+![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=689E4D) <a href="https://tanesobs.straw.page">![image](https://files.catbox.moe/10rale.png)
 
 ![](https://files.catbox.moe/3bud15.png)
 ![](https://files.catbox.moe/wdmvr4.png)

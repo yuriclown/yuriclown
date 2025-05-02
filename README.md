@@ -1,4 +1,4 @@
-recomended viewing zoomed in 150% ![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=689E4D)
+![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=689E4D) recomended viewing zoomed in 150%
 
 ![](https://files.catbox.moe/qyfztb.png)
 

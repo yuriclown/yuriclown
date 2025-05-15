@@ -1,4 +1,4 @@
-recomended viewing zoomed in 150% ++++++ @yurinerd
+recomended viewing zoomed in 150%
 
 ![](https://files.catbox.moe/5exb11.png)
 

@@ -2,6 +2,8 @@ recomended viewing zoomed in 150%
 
 ![](https://files.catbox.moe/5exb11.png)
 
+i have a passion for graphic design and games where i can build
+
 ![](https://files.catbox.moe/3bud15.png)
 
 ![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=689E4D) 

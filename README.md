@@ -1,3 +1,5 @@
+hi u should commission me 2 make u a rentry [info here](https://rentry.co/tanesobs)
+
 ![](https://files.catbox.moe/bchqx0.webp)
 
 ![](https://files.catbox.moe/8njfei.webp)

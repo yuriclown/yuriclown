@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://files.catbox.moe/zkhlmr.png)
+
 <p align="center">wip</p>
 
 [main rentry](https://rentry.co/maidofIife) + [extended](https://rentry.co/tanesob) + [atabook](https://tanesobs.atabook.org/) + [commission info](https://rentry.co/tanesobs)

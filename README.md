@@ -7,3 +7,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=080e4d" />
 </p>
+
+<p align="center">all art used by thaliiiq on twitter</p>

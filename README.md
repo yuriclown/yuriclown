@@ -1,5 +1,9 @@
-REDOING. STUILLY IS DEAD TO ME!
+<p align="center">wip</p>
 
-but before i finish that peep this links [main](https://rentry.co/maidofIife) + [extended](https://rentry.co/tanesob) + [rentry commission info](https://rentry.co/tanesobs)
+<p align="center">
+  <img src="https://files.catbox.moe/dfebf9.webp" width="400"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=000000)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=080e4d" />
+</p>

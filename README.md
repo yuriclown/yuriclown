@@ -2,7 +2,7 @@
 
 ![](https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/dividers/maskydiv2.webp)
 
-[main rentry](https://rentry.co/maidofIife) + [extended](https://rentry.co/tanesob) + [atabook](https://tanesobs.atabook.org/) + [commission info](https://rentry.co/tanesobs)
+[main rentry](https://rentry.co/maidofIife) + [extended](https://rentry.co/tanesob) + [atabook](https://tanesobs.atabook.org/) + [commission info](https://rentry.co/tanesobs) + [pronouns.cc](https://pronouns.cc/@theactualnerdemoji)
 
 rentry 4 pt is wip
 

@@ -11,9 +11,9 @@ rentry , atabook , prn.cc
       <td> $\color{#75b17a}{\textsf{ >> i follow back. follow me }}$
  </td>
       </tr>
-  </table>
+  </table> 
 
-divider
+  <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic4.gif" width="430" height="26" />
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=946352" />
 
@@ -24,3 +24,4 @@ divider
 <img alighn="right" src="divider" width="990" height="20">
 
 thx for da code mea
+

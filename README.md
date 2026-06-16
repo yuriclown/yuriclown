@@ -6,7 +6,7 @@
 
 pix [rentry](https://rentry.co/maidofIife) , [atabook](https://tanesobs.atabook.org/) , [prn.cc](https://pronouns.cc/@theactualnerdemoji) 
 
-WAHUDJFAKF 
+this is clearly a wip. currently taking a break to #game 
 
   <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic4.gif" width="430" height="26" />
 

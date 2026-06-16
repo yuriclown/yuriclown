@@ -8,16 +8,18 @@ rentry , atabook , prn.cc
 
 <table>
     <tr>
-      <td> $\color{#F7ABCFFF}{\textsf{ lyric prolly idk }}$
+      <td> $\color{#75b17a}{\textsf{ >> i follow back. follow me }}$
  </td>
       </tr>
   </table>
 
 divider
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=080e4d" />
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=946352" />
 
 <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic3.png" width="430" height="118" />
+
+1 2 3 4 5
 
 <img alighn="right" src="divider" width="990" height="20">
 

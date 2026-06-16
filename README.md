@@ -14,7 +14,9 @@ WAHUDJFAKF
 
 <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic3.png" width="430" height="118" />
 
-1 2 3 4 5
+theactualnerdemoji judobros assimilationw2002 smajorscythe tanesob
+
+those are rentry links so i dont forget to add them
 
 <img alighn="right" src="divider" width="990" height="20">
 

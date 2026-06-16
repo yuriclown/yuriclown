@@ -17,7 +17,7 @@ divider
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=080e4d" />
 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic3.png" width="460" height="118" />
+<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic3.png" width="460" height="118" />
 
 <img alighn="right" src="divider" width="990" height="20">
 

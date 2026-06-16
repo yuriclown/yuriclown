@@ -1,16 +1,19 @@
-## Hi there 👋
+<img alighn="right" src="divider" width="990" height="20">
 
-<!--
-**yuriclown/yuriclown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic.png" witdh="450" height="490">
 
-Here are some ideas to get you started:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4oknir6tyb2ud3ydz4d6g7cdw&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) image
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+line 2
+
+line 3
+
+divider
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ <img src="https://komarev.com/ghpvc/?username=idiosyncraticNerd&color=080e4d" />
+
+line 4
+
+<img alighn="right" src="divider" width="990" height="20">
+
+thx for da code mea

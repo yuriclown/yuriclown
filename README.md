@@ -1,4 +1,4 @@
-<img alighn="right" src="divider" width="990" height="20">
+<img alighn="right" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/dividers/nagitodivider2.png" width="990" height="45">
 
 <img align="left" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic.png" witdh="450" height="490">
 
@@ -16,6 +16,6 @@ ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${
 
  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://rentry.co/theactualnerdemoji"><img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic10.png" width="45" height="45" />  ‎ ‎ ‎ ‎ <a href="https://rentry.co/judobros"><img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic7.png" width="45" height="45" />  ‎ ‎ ‎ ‎ <a href="https://rentry.co/assimilationw2002"><img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic11.png" width="45" height="45" />  ‎ ‎ ‎ ‎ <a href="https://rentry.co/smajorscythe"><img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic9.png" width="45" height="45" />  ‎ ‎ ‎ ‎ <a href="https://rentry.co/tanesob"><img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic8.png" width="45" height="45" />
 
-<img alighn="right" src="divider" width="990" height="20">
+<img alighn="right" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/dividers/nagitodivider1.png" width="990" height="45">
 
 i just remembered im in [@ptawards](https://github.com/pt-awards) .hi

@@ -6,7 +6,7 @@
 
 ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic5.gif" /> ⊰ [rentry](https://rentry.co/maidofIife) , , [atabook](https://tanesobs.atabook.org/) , , [prn.cc](https://pronouns.cc/@theactualnerdemoji) ⊱ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic6.gif" />
 
-this is clearly a wip. currently taking a break to #game 
+IM GONNA FINISH THIS TONIGHT I LOWKEY SLEPT ALL DAY
 
   <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic4.gif" width="430" height="26" />
 

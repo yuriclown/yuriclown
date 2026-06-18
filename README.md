@@ -19,3 +19,5 @@ ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${
 <img alighn="right" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/dividers/nagitodivider1.png" width="990" height="45">
 
 i just remembered im in [@ptawards](https://github.com/pt-awards) .hi
+
+i fucking hate nagito dude

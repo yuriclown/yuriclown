@@ -20,5 +20,3 @@ those are rentry links so i dont forget to add them
 
 <img alighn="right" src="divider" width="990" height="20">
 
-thx for da code mea
-

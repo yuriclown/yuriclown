@@ -14,9 +14,9 @@ ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${
 
 <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic3.png" width="430" height="118" />
 
-theactualnerdemoji judobros assimilationw2002 smajorscythe tanesob
-
-those are rentry links so i dont forget to add them
+<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic10.png" width="40" height="40" />
 
 <img alighn="right" src="divider" width="990" height="20">
+
+theactualnerdemoji judobros assimilationw2002 smajorscythe tanesob
 

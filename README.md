@@ -6,7 +6,7 @@
 
 ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic5.gif" /> ⊰ [rentry](https://rentry.co/maidofIife) , , [atabook](https://tanesobs.atabook.org/) , , [prn.cc](https://pronouns.cc/@theactualnerdemoji) ⊱ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic6.gif" />
 
-IM GONNA FINISH THIS TONIGHT I LOWKEY SLEPT ALL DAY
+${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${\color{#B7A679} 𝕠𝕟}$ ${\color{#84B27F} 𝕥𝕨𝕥}$
 
   <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic4.gif" width="430" height="26" />
 

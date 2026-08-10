@@ -2,7 +2,10 @@
 
 <img align="left" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic.png" witdh="450" height="490">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4oknir6tyb2ud3ydz4d6g7cdw&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic2.png" witdh="100" height="95"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4oknir6tyb2ud3ydz4d6g7cdw&cover_image=true&theme=natemoo-re&show_offline=false&background_color=999999&interchange=true&profanity=false&hide_remaster=false&bar_color=bababa&bar_color_cover=true">
+  </a>
+</p> <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic2.png" witdh="100" height="95"/>
 
 ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic5.gif" /> ⊰ [rentry](https://rentry.co/maidofIife) , , [atabook](https://tanesobs.atabook.org/) , ,[artfight](https://artfight.net/~theactualnerdemoji) , , [gunslol](https://guns.lol/tanesobs) , , [prn.cc](https://pronouns.cc/@theactualnerdemoji) ⊱ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic6.gif" />
 

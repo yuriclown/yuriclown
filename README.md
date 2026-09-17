@@ -24,4 +24,4 @@ ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${
 
 mentioned in [@pt-awards](https://github.com/pt-awards) + [@pt-players](https://github.com/pt-players/) + [@pt-fashion](https://github.com/pt-fashion) + [@kaotown](https://github.com/kaotown) . lmk if i missed any LOL
 
-i fucking hate nagito dude
+i fucking LOVE nagito dude

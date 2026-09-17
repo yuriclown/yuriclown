@@ -22,6 +22,6 @@ ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${
 
 <img align="left" src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic2.png" witdh="100" height="95">
 
-ty [@pt-awards](https://github.com/pt-awards) + [@pt-players](https://github.com/pt-players/) + [@pt-fashion](https://github.com/pt-fashion)
+ty [@pt-awards](https://github.com/pt-awards) + [@pt-players](https://github.com/pt-players/) + [@pt-fashion](https://github.com/pt-fashion) + [@kaotown](https://github.com/kaotown)
 
 i fucking hate nagito dude

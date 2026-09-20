@@ -26,4 +26,4 @@ mentioned in [@pt-awards](https://github.com/pt-awards) + [@pt-players](https://
 
 i fucking LOVE nagito dude (healed due to him having eyelashes in 2x2)
 
-birthday in 21 days (how many days?)
+birthday in 19 days 

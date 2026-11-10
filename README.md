@@ -4,7 +4,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4oknir6tyb2ud3ydz4d6g7cdw&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic5.gif" /> ⊰ [rentry](https://rentry.co/maidofIife) , , [atabook](https://tanesobs.atabook.org/) , , [gunslol](https://guns.lol/tanesobs) , , [prn.cc](https://pronouns.cc/@theactualnerdemoji) ⊱ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic6.gif" />
+‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic5.gif" /> ⊰ [rentry (N/A)]() , , [atabook](https://tanesobs.atabook.org/) , , [gunslol](https://guns.lol/tanesobs) , , [prn.cc](https://pronouns.cc/@theactualnerdemoji) ⊱ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/github%20stuff/graphic/nagitographic6.gif" />
 
 ${\color{#D0DCBB} 𝕚𝕔}$ ${\color{#D0D09B} 𝟡𝕠𝕠𝕞𝕚𝕤𝕙}$ ${\color{#B7A679} 𝕠𝕟}$ ${\color{#84B27F} 𝕥𝕨𝕥}$
 
